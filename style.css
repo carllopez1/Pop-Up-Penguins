@@ -11,149 +11,149 @@ body {
 #title {
 	width: 600px;
 	height: 150px;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_title.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_title.PNG');
 }
 
 .penguin1:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_1_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_1_hover.PNG');
 	cursor: pointer;
 }
 
 .penguin1:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_1.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_1.PNG');
 }
 
 .penguin1 {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_1.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_1.PNG');
 }
 
 .penguin2:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_2_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_2_hover.PNG');
 	cursor: pointer;
 }
 
 .penguin2:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_2.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_2.PNG');
 }
 
 .penguin2 {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_2.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_2.PNG');
 }
 
 .penguin3:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_3_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_3_hover.PNG');
 	cursor: pointer;
 }
 
 .penguin3:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_3.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_3.PNG');
 }
 
 .penguin3 {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_3.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_3.PNG');
 }
 
 .penguin4:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_4_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_4_hover.PNG');
 	cursor: pointer;
 }
 
 .penguin4:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_4.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_4.PNG');
 }
 
 .penguin4 {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_4.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_4.PNG');
 }
 
 .penguin5:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_5_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_5_hover.PNG');
 	cursor: pointer;
 }
 
 .penguin5:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_5.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_5.PNG');
 }
 
 .penguin5 {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_5.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_5.PNG');
 }
 
 .penguin6:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_6_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_6_hover.PNG');
 	cursor: pointer;
 }
 
 .penguin6:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_6.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_6.PNG');
 }
 
 .penguin6 {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_6.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_6.PNG');
 }
 
 .penguin7:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_7_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_7_hover.PNG');
 	cursor: pointer;
 }
 
 .penguin7:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_7.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_7.PNG');
 }
 
 .penguin7 {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_7.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_7.PNG');
 }
 
 .penguin8:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_8_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_8_hover.PNG');
 	cursor: pointer;
 }
 
 .penguin8:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/penguin_8.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Penguin_8.PNG');
 }
 
 .penguin8 {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_8.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_8.PNG');
 }
 
 .yeti:hover {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_9_hover.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_9_hover.PNG');
 	cursor: pointer;
 }
 
 .yeti:active {
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/yeti.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Yeti.PNG');
 }
 
 .yeti {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/mound_9.PNG');
+	background-image:url('file:///C:/Users/277Student/Desktop/media%20folder/Mound_9.PNG');
 }
